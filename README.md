@@ -14,6 +14,6 @@ for (let index = 0;index < tbody.childElementCount;index++){\
       &emsp;&emsp;&emsp;tt+= +tbody.children[index].children[2].innerText;\
       &emsp;&emsp;&emsp;sum+= (+tbody.children[index].children[5].innerText*+tbody.children[index].children[2].innerText);\
   &emsp;&emsp;}\
-}\
+}
 
 console.log("GPA: ",sum/tt);
