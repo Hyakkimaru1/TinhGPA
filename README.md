@@ -3,7 +3,7 @@ Tinh diem GPA tren portal
 
 
 #script:
-const tbody = document.getElementsByTagName('tbody')[1];
+const tbody = document.getElementsByTagName('tbody')[1]; /br
 let sum = 0;
 let tt = 0;
 for (let index = 0;index < tbody.childElementCount;index++){
