@@ -2,7 +2,7 @@
 Tinh diem GPA tren portal
 
 
-<h3>script:</h3>\
+#script:\
 const tbody = document.getElementsByTagName('tbody')[1];\
 let sum = 0;\
 let tt = 0;\
