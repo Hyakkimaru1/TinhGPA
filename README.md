@@ -17,4 +17,4 @@ for (let index = 0;index < tbody.childElementCount;index++){\
   &emsp;&emsp;}\
 }
 
-console.log("GPA: ",sum/tt);
+const GPA = sum/tt;
